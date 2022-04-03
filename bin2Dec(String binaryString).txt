@@ -1,0 +1,26 @@
+Write the bin2Dec(String binaryString) method to convert binary string into a decimal
+
+number.Implement the bin2Dec method to throw a NumberFormatException if the string
+
+is not binary String
+
+
+Input format
+
+binary number
+
+Output format
+
+Value = 10
+
+or Java.lang.NumberFormatException: The Input String is not Binary
+
+Sample testcases
+
+Input 1						Output 1
+
+10101							Value=21
+
+Input 2						Output 2
+
+1234							java.lang.NumberFormatException: The Input String is not Binary
